@@ -27,3 +27,16 @@ This React-based Todo App allows users to manage their tasks efficiently. It inc
 - **SCSS:** For styling the app.
 
 This app serves as a solid base for managing tasks with real-time interactions and server-side synchronization.
+
+
+**Getting Started:**
+- You should use node v20
+- Clone the repository:
+  - _git clone https://github.com/your-username/phone-catalog_react.git_
+- Navigate to the project folder:
+  - _cd phone-catalog_react_
+- Install dependencies:
+  - _npm install_
+- Run the project:
+  - _npm start_
+
